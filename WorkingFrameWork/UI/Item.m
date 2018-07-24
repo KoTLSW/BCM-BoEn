@@ -36,6 +36,8 @@
         self.testAllCommand = item.testAllCommand;
         self.units = item.units;
         self.freq = item.freq;
+         
+         //test
         
     }
 
